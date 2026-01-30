@@ -20,3 +20,5 @@ Convierte archivos:
 Instalación de Pillow:
 ```bash
 pip install pillow
+
+python files_to_webp.py
